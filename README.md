@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Sol Puente
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">
+ <source media="(prefers-color-scheme: light)" srcset="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">
+</picture>
 
 <!--
-**solp22/solp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
