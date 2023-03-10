@@ -7,4 +7,6 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 
-<a href="mailto: sol.puentereal@gmail.com"><img src="https://user-images.githubusercontent.com/124692695/224407005-db6a9d11-91c3-409c-b94c-d0e3be4df159.svg"></a>
+<p align="center">
+<a href="mailto: sol.puentereal@gmail.com"><img src="https://user-images.githubusercontent.com/124692695/224407005-db6a9d11-91c3-409c-b94c-d0e3be4df159.svg"></a> <a href="www.linkedin.com/in/sol-puente"><img src="https://user-images.githubusercontent.com/124692695/224410251-62ed1c0b-0d7f-4fe4-8cbb-3ca8af383316.svg"></a>
+</p>
