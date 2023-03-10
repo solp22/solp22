@@ -1,18 +1,10 @@
-### Hi there 👋, I'm Sol Puente
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">
- <source media="(prefers-color-scheme: light)" srcset="https://tenor.com/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487">
-</picture>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/124692695/224404770-c56e7d9a-2065-4244-844b-94d269a2a970.gif">
+</p>
 
-<!--
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Sol Puente</h1>
+<h3 align="center">A Full Stack developer student at Holberton School Uruguay</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">📫 How to reach me:</h3>
+
+<a href="sol.puentereal@gmail.com"><img src="https://user-images.githubusercontent.com/124692695/224407005-db6a9d11-91c3-409c-b94c-d0e3be4df159.svg"></a>
