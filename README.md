@@ -7,4 +7,4 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 
-<a href="sol.puentereal@gmail.com"><img src="https://user-images.githubusercontent.com/124692695/224407005-db6a9d11-91c3-409c-b94c-d0e3be4df159.svg"></a>
+<a href="mailto: sol.puentereal@gmail.com"><img src="https://user-images.githubusercontent.com/124692695/224407005-db6a9d11-91c3-409c-b94c-d0e3be4df159.svg"></a>
