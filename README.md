@@ -7,6 +7,26 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 
+<div align="center">
+&ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sol.puentereal@gmail.com)
+&ensp;[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sol-puente/)
+&ensp;[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/solpuente_/)
+&ensp;[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://github.com/solp22)
+&ensp;[<img src="https://img.shields.io/badge/Slack-7D4698.svg?style=for-the-badge&logo=Slack&logoColor=white">](https://holberton-school-org.slack.com/U04ML9LQX1T)
+</div>
+
+<h3 align="center"> 🌱 I'm currently learning: </h3>
+
+<div align="center">
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+</div>
+
+<h2 align="center"> 📊 GitHub Stats: </h2>
+<br />
 <p align="center">
-<a href="mailto: sol.puentereal@gmail.com"><img src="https://user-images.githubusercontent.com/124692695/224407005-db6a9d11-91c3-409c-b94c-d0e3be4df159.svg"></a> <a href="www.linkedin.com/in/sol-puente"><img src="https://user-images.githubusercontent.com/124692695/224410251-62ed1c0b-0d7f-4fe4-8cbb-3ca8af383316.svg"></a>
+<img src="https://github-readme-stats.vercel.app/api username=solp22&&show_icons=true&count_private=true&theme=bear&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solp22&theme=bear&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solp22&theme=bear&hide_border=true&background=00000000" />
 </p>
