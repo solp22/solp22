@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sol Puente</h1>
-<h3 align="center">A Full Stack developer student at Holberton School Uruguay</h3>
+<h3 align="center">A software developer student at Holberton School Uruguay</h3>
 
 <h3 align="center">📫 How to reach me:</h3>
 
