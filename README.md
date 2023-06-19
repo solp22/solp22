@@ -40,8 +40,7 @@
 <h2 align="center"> 📊 GitHub Stats: </h2>
 <br />
 <p align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api username=solp22&&show_icons=true&count_private=true&theme=bear&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solp22&theme=bear&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=solp22&theme=bear&hide_border=true&background=00000000" />
